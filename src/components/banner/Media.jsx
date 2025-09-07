@@ -30,7 +30,7 @@ const Media = () => {
           BEST SKILL ON
         </h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
+          <span className="bannerIcon ml-2">
             <FaReact />
           </span>
           <span className="bannerIcon">
