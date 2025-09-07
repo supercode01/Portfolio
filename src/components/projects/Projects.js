@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -38,32 +38,27 @@ const Projects = () => {
           liveLink="https://amigochat.netlify.app/" // Replace with actual link or remove if no live site
         />
         <ProjectsCard
-          title="TRAVEL BOOKING APP"
-          des="An intuitive travel platform that simplifies the search and booking of flights,
-          hotels, and tours. Emphasizing personalization, it offers users tailored travel
-          recommendations and streamlined booking processes."
-          src={projectThree} // Consider using a different image if available
+          title="MediaFlow – TV & Radio"
+          des="A dynamic media streaming portal that aggregates live TV channels and radio stations in one sleek interface—enabling users to instantly access news, music, sports, and entertainment across formats."
+          src={projectFour} // Consider using a different image if available
           githubLink="https://github.com/yourusername/travel-booking-app" // Replace with actual link
           liveLink="https://your-travel-app-live-url.com" // Replace with actual link
         />
         <ProjectsCard
-          title="COLLEGE MANAGEMENT SYSTEM"
+          title="FlexiCMS Admin Panel"
           des="A robust portal tailored for higher education institutions.
           It facilitates course scheduling, faculty coordination, student information
           management, and streamlines day-to-day administrative tasks."
-          src={projectOne} // Consider using a different image if available
-          githubLink="https://github.com/yourusername/college-management-system" // Replace with actual link
-          liveLink="#" // Replace with actual link or remove if no live site
+          src={projectFive} // Consider using a different image if available
+          githubLink="" // Replace with actual link
+          liveLink="https://cms-five-rho.vercel.app/" // Replace with actual link or remove if no live site
         />
         <ProjectsCard
-          title="LMS SYSTEM"
-          des="A feature-rich Learning Management System (LMS) designed to enhance
-           online education. It offers interactive course
-           materials, real-time progress tracking, assessments, and comprehensive reporting
-           for educators."
-          src={projectTwo} // Consider using a different image if available
+          title="Personal Protfolio"
+          des="A clean and responsive personal portfolio built with React and styled-components, designed to elegantly present skills, projects, and contact information."
+          src={projectSix} // Consider using a different image if available
           githubLink="https://github.com/yourusername/lms-system" // Replace with actual link
-          liveLink="https://your-lms-live-url.com" // Replace with actual link
+          liveLink="" // Replace with actual link
         />
       </div>
     </section>

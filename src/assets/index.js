@@ -1,5 +1,5 @@
 // Importing the logo image
-import logo from "./images/logo.jpg";
+import logo from "./images/logo.png";
 
 // Importing the banner image used in the application
 import bannerImg from "./images/bannerImg.png";
@@ -8,6 +8,9 @@ import bannerImg from "./images/bannerImg.png";
 import projectOne from "./images/projects/projectOne.png";
 import projectTwo from "./images/projects/projectTwo.png";
 import projectThree from "./images/projects/projectThree.png";
+import projectFour from "./images/projects/projectFour.png";
+import projectFive from "./images/projects/projectFive.png";
+import projectSix from "./images/projects/projectSix.png";
 
 
 // Importing the contact section image
@@ -20,5 +23,8 @@ export {
   projectOne,
   projectTwo,
   projectThree,
+  projectFour,
+  projectFive,
+  projectSix,
   contactImg,
 };

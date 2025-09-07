@@ -21,13 +21,13 @@ const Media = () => {
           </span>
           <span className="bannerIcon">
             <span className="bannerIcon">
-              <a href="https://www.linkedin.com/in/daniel-ndeto-187a8b292" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/shehzad-ali-3bb0b0293/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedinIn />
               </a>
             </span>
           </span>
           <span className="bannerIcon">
-            <a href="https://github.com/daniel-ndeto" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Mshehzad123" target="_blank" rel="noopener noreferrer">
               <FaGithub />
             </a>
           </span>
