@@ -17,28 +17,22 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="SCHOOL MANAGEMENT SYSTEM"
-          des="An all-inclusive system designed for academic institutions.
-          This platform streamlines student enrollment, attendance tracking,
-          grade management, and communication between staff, teachers, and students."
+          title="EcoMeubles Furniture Studio"
+          des="A clean, user-friendly online store highlighting stylish, high-quality furniture options—combining timeless elegance with functionality, backed by decades of design experience."
           src={projectOne}
-          githubLink="https://github.com/daniel-ndeto/school-management-system.git" // Replace with actual link
-          liveLink="https://school-management-system-hazel-eta.vercel.app" // Replace with actual link or remove if no live site
+          githubLink="" // Replace with actual link
+          liveLink="https://ecomeubles.com/"
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des="A fully responsive online store offering secure payment integration,
-          efficient inventory management, and an intuitive user interface that delivers
-           a seamless shopping experience for customers."
+          title="IUAffilBoost Digital Solutions"
+          des="An integrated platform delivering responsive web and mobile app development alongside targeted social media campaigns—designed to turn client visions into reality with advanced technology and transparent communication."
           src={projectTwo}
-          githubLink="https://github.com/daniel-ndeto/tech-lab97-ecommerce-app.git" // Replace with actual link
-          liveLink="https://your-ecommerce-live-url.com" // Replace with actual link
+          githubLink="" 
+          liveLink="https://iuaffilboost.com/" 
         />
         <ProjectsCard
-          title="Chatting App"
-          des="A real-time messaging application that supports one-to-one and group chats,
-          media sharing, and push notifications. Built with modern web technologies to enable
-          instantaneous communication."
+          title="Somaa Reputation Studio"
+          des="An elegant bilingual (Arabic-English) landing page for a PR & marketing company, designed to highlight brand reputation management through impactful storytelling, visual identity, and data-driven client success metrics."
           src={projectThree}
           githubLink="https://github.com/daniel-ndeto/AmigoChat-Realtime-Chat-Application.git" // Replace with actual link
           liveLink="https://amigochat.netlify.app/" // Replace with actual link or remove if no live site

@@ -5,9 +5,9 @@ import logo from "./images/logo.jpg";
 import bannerImg from "./images/bannerImg.png";
 
 // Importing images for different projects
-import projectOne from "./images/projects/projectOne.jpg";
-import projectTwo from "./images/projects/projectTwo.jpg";
-import projectThree from "./images/projects/projectThree.jpeg";
+import projectOne from "./images/projects/projectOne.png";
+import projectTwo from "./images/projects/projectTwo.png";
+import projectThree from "./images/projects/projectThree.png";
 
 
 // Importing the contact section image
