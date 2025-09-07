@@ -10,16 +10,6 @@ const Media = () => {
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
           <span className="bannerIcon">
-            <a href="https://www.facebook.com/profile.php?id=100075378249781" target="_blank" rel="noopener noreferrer">
-              <FaFacebookF />
-            </a>
-          </span>
-          <span className="bannerIcon">
-            <a href="https://x.com/musyoki_017" target="_blank" rel="noopener noreferrer">
-              <FaTwitter />
-            </a>
-          </span>
-          <span className="bannerIcon">
             <span className="bannerIcon">
               <a href="https://www.linkedin.com/in/shehzad-ali-3bb0b0293/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedinIn />
